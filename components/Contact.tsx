@@ -46,7 +46,7 @@ export default function Contact() {
               <Linkedin className="h-5 w-5 text-signal-teal" />
               <div>
                 <p className="chip uppercase tracking-widest text-ivory-faint">LinkedIn</p>
-                <p className="mt-1 text-sm text-ivory">/vinayakkhalasi</p>
+                <p className="mt-1 text-sm text-ivory">/vinayak-khalasi-240a85181</p>
               </div>
             </a>
           </div>
