@@ -45,8 +45,14 @@ export default function Contact() {
             >
               <Linkedin className="h-5 w-5 text-signal-teal" />
               <div>
-                <p className="chip uppercase tracking-widest text-ivory-faint">LinkedIn</p>
-                <p className="mt-1 text-sm text-ivory">/vinayak-khalasi-240a85181</p>
+                 <p className="chip uppercase tracking-widest text-ivory-faint">LinkedIn</p>
+
+                  <a href="https://www.linkedin.com/in/vinayak-khalasi-240a85181/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mt-1 text-sm text-ivory hover:text-blue-400">
+                    Vinayak Khalasi
+                  </a>
               </div>
             </a>
           </div>
